@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @patrickirvinio
 - 👀 I’m interested in software development, flying, kayaking, and woodworking...
 - 🌱 I’m currently learning Jekyll...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me patrick@patrickirvin.io
+- 📫 How to reach me 
 
 <!---
 patrickirvinio/patrickirvinio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
